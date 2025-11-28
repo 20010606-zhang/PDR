@@ -1,0 +1,5 @@
+[server]
+python_version = "3.11"
+
+[general]
+defaultEncoding = "utf-8"
