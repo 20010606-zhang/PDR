@@ -1,0 +1,6 @@
+build-essential
+cmake
+libgomp1
+libopenblas-dev
+libomp-dev
+python3-dev
