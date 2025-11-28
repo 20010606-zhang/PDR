@@ -1,0 +1,2 @@
+[server]
+python_version = "3.11"  # 指定Python 3.11版本，避免3.13的兼容性问题
