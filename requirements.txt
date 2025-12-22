@@ -1,7 +1,8 @@
 streamlit==1.28.0
 pandas==2.1.3
 numpy==1.24.3
-scikit-learn==1.5.0  # 备选版本，也修复了相关问题
+scikit-learn==1.4.0  # 备选版本，也修复了相关问题
 matplotlib==3.7.2
 joblib==1.3.2
 openpyxl==3.1.2
+
