@@ -1,9 +1,10 @@
 lightgbm
-streamlit=1.6.1
+streamlit
 pandas
 scikit-learn
 matplotlib
 seaborn
 joblib
 openpyxl
+
 
